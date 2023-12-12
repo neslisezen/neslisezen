@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Neslihan.
 ## 💫 About Me 💫
-👩‍💻 I am a passionate and open-minded IT student.<br>🌱 I’m currently learning Advanced Java and PostgreSQL.<br>🚀 Each project for me is a new learning opportunity, and I can't wait to share what I learn with you. I'm eagerly waiting for your feedback on my future projects!<br>💌 You can reach me via [neslihansezen9@gmail.com].<br>
+👩‍💻 I am a passionate and open-minded IT student.<br>🌱 I’m currently learning Python and Docker.<br>🚀 Each project for me is a new learning opportunity, and I can't wait to share what I learn with you. I'm eagerly waiting for your feedback on my future projects!<br>💌 You can reach me via [neslihansezen9@gmail.com].<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neslihansezen) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/neslihansezen)
